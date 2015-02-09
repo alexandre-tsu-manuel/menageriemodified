@@ -1,0 +1,21 @@
+#text p, #text_right p
+{
+	font-size: 10px;
+	color: #999999;
+	line-height: 14px;
+}
+
+#text span, #text_right span
+{
+	color: #FF3300;
+	font-size: 15px;
+	font-variant: small-caps;
+	font-style: none;
+	font-weight: bold;
+}
+
+#text a, #text_right a
+{
+	font-style: italic;
+	font-size: 11px;
+}

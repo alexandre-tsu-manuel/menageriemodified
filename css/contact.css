@@ -1,0 +1,80 @@
+/* Menu */
+#onglet_actif
+{
+	margin-top: 582px;
+	margin-left: 52px;
+	width: 140px;
+	height: 35px;
+}
+
+/* Section: photos */
+#bertrand_photo, #sophie_photo, #corinne_photo, #equipe
+{
+	left: 552px;
+	position: absolute;
+}
+
+#bertrand_texte, #sophie_texte, #corinne_texte
+{
+	left: 644px;
+	position: absolute;
+}
+
+#bertrand_photo
+{
+	top: 162px;
+	position: absolute;
+}
+
+#bertrand_texte
+{
+	top: 163px;
+	position: absolute;
+}
+
+#corinne_photo
+{
+	top: 252px;
+	position: absolute;
+}
+
+#corinne_texte
+{
+	top: 253px;
+	position: absolute;
+}
+
+#sophie_photo
+{
+	top: 342px;
+	position: absolute;
+}
+
+#sophie_texte
+{
+	top: 343px;
+	position: absolute;
+}
+
+/* Section: équipe dynamique */
+#equipe
+{
+	top: 421px;
+	position: absolute;
+}
+
+/* Section: aside */
+aside
+{
+	top: 163px;
+	left: 912px;
+	position: absolute;
+}
+
+/* Section: Logo */
+#logo
+{
+	top: 425px;
+	left: 981px;
+	position: absolute;
+}

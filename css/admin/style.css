@@ -1,0 +1,64 @@
+/* Menu */
+#informations
+{
+	top: 100px;
+	left: 310px;
+	position: absolute;
+}
+
+#identifiants
+{
+	top: 170px;
+	left: 311px;
+	position: absolute;
+}
+
+#comptes
+{
+	top: 240px;
+	left: 325px;
+	position: absolute;
+}
+
+#deconnexion
+{
+	top: 310px;
+	left: 308px;
+	position: absolute;
+}
+
+#informations_png
+{
+	top: 93px;
+	left: 300px;
+	position: absolute;
+}
+
+#identifiants_png
+{
+	top: 163px;
+	left: 301px;
+	position: absolute;
+}
+
+#comptes_png
+{
+	top: 233px;
+	left: 315px;
+	position: absolute;
+}
+
+#deconnexion_png
+{
+	top: 303px;
+	left: 298px;
+	position: absolute;
+}
+
+/* Section */
+#form
+{
+	top: 150px;
+	left: 560px;
+	position: absolute;
+}

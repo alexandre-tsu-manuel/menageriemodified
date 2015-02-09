@@ -1,0 +1,64 @@
+/* Général */
+h2
+{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+em
+{
+	color: #333333;
+}
+
+/* Menu */
+#onglet_actif
+{
+	margin-top: 442px;
+	margin-left: 52px;
+	width: 140px;
+	height: 35px;
+}
+
+/* Section */
+#left_paragraph
+{
+	top: 45px;
+	left: 232px;
+	position: absolute;
+	width: 258px;
+}
+
+#right_paragraph
+{
+	line-height: 14pt;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+	width: 600px;
+	top: 148px;
+	left: 552px;
+	position: absolute;
+}
+
+#video
+{
+	top: 294px;
+	left: 672px;
+	position: absolute;
+}
+
+iframe
+{
+	height: 243px;
+	width: 360px;
+}
+
+#video_description
+{
+	text-align: center;
+	height: 40px;
+	width: 500px;
+	top: 540px;
+	left: 602px;
+	position: absolute;
+}

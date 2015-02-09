@@ -1,0 +1,256 @@
+/* Général */
+body
+{
+	width: 1272px;
+	height: 1016px;
+	background-image: url('../images/fond.jpg');
+	background-repeat: no-repeat;
+	background-position: top left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	position: absolute;
+}
+
+a
+{
+	color: #FF3300;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #333333;
+}
+
+strong
+{
+	font-weight: bold;
+	color: #333333;
+	line-height: 16px;
+}
+
+/* Header */
+header
+{
+	font-size: 11px;
+	top: 58px;
+	position: absolute;
+}
+
+#arborescence
+{
+	left: 532px;
+	position: absolute;
+	font-style: italic;
+	width: 350px;
+}
+
+#newsletter
+{
+	left: 844px;
+	position: absolute;
+	color: #FF3300;
+	width: 330px;
+}
+
+header form input
+{
+	font-size: 10px;
+	background: none;
+	border: none;
+	color: #FF3300;
+}
+
+#title
+{
+	font-weight: bold;
+	font-size: 18px;
+	color: #FF3300;
+	top: 30px;
+	left: 532px;
+	position: absolute;
+	width: 500px
+}
+
+.subtitle
+{
+	font-size: 14px;
+	font-style: italic;
+}
+
+/* Menu */
+nav a, #admin_menu a
+{
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+nav a:hover, #admin_menu a:hover
+{
+	color: #FF3300;
+}
+
+#alaune
+{
+	top: 86px;
+	left: 122px;
+	position: absolute;
+}
+
+#exposition
+{
+	top: 121px;
+	left: 100px;
+	position: absolute;
+}
+
+#spectacles
+{
+	top: 155px;
+	left: 98px;
+	position: absolute;
+}
+
+#galerie
+{
+	top: 225px;
+	left: 129px;
+	position: absolute;
+}
+
+#presse
+{
+	top: 261px;
+	left: 130px;
+	position: absolute;
+}
+
+#surmesure
+{
+	top: 331px;
+	left: 94px;
+	position: absolute;
+}
+
+#coupsdemain
+{
+	top: 365px;
+	left: 68px;
+	position: absolute;
+}
+
+#projet
+{
+	top: 436px;
+	left: 137px;
+	position: absolute;
+}
+
+#partenaires
+{
+	top: 471px;
+	left: 93px;
+	position: absolute;
+}
+
+#espacepro
+{
+	top: 507px;
+	left: 95px;
+	position: absolute;
+}
+
+#contact
+{
+	top: 576px;
+	left: 124px;
+	position: absolute;
+}
+
+/* Menu admin */
+#administration
+{
+	top: -15px;
+	left: -2px;
+	position: absolute;
+}
+
+#disconnect
+{
+	top: 21px;
+	left: -2px;
+	position: absolute;
+}
+
+#administration_png
+{
+	top: -8px;
+	left: -8px;
+	position: absolute;
+}
+
+#disconnect_png
+{
+	top: 27px;
+	left: -8px;
+	position: absolute;
+}
+
+/* Tricherie : Coquille d'affichage. Pas d'autre solution */
+#admin_menu .nav-Nlien a, nav .nav-Nlien a
+{
+	color: #FF3300;
+}
+
+/* Section */
+#left_photo
+{
+	top: 32px;
+	left: 212px;
+	position: absolute;
+}
+
+#text
+{
+	line-height: 16px;
+	width: 515px;
+	top: 160px;
+	left: 592px;
+	position: absolute;
+}
+
+#text_right
+{
+	line-height: 16px;
+	width: 315px;
+	top: 160px;
+	left: 900px;
+	position: absolute;
+}
+
+/* Footer */
+footer
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF3300;
+	top: 615px;
+	position: absolute;
+}
+
+#footer_liens
+{
+	width: 225px;
+	left: 250px;
+	position: absolute;
+}
+
+#footer_contact
+{
+	width: 650px;
+	left: 570px;
+	position: absolute;
+}
